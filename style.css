@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+}
+.container{
+    background-color: rgb(10, 228, 58);
+    padding: 12px 12px 12px 12px ;
+    margin: 120px auto;
+    width: 30%;
+    height: 20%;
+
+}
+.form{
+    background-color: rgb(89, 233, 60);
+    padding: 3px 3px 10px 10px;
+}

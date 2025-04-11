@@ -1,0 +1,52 @@
+
+/* 
+#container{
+    background-color: antiquewhite;
+    color: rgb(233, 93, 12);
+    padding: 12px 12px 12px 12px;
+    margin: 120px auto;
+} */
+body{
+    background-color: rgb(156, 233, 14);
+    margin:120px auto;
+    padding: 0px 0px 0px 200px;
+    color: blue;
+    max-width: 60%;
+}
+#colum{
+    color: red;
+    background-color: rgb(101, 131, 231);
+    margin: 4px 4px 4px 4px; 
+    padding: 12px 12px 12px 12px;
+    width: 100%;
+}
+#table{
+    color:rgba(1, 1, 7, 0.897);
+    margin: 120px auto;
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    padding: 3px;
+    border-radius: 10px;
+    box-shadow: 2%;
+    box-shadow: blue;
+
+  
+    
+
+}
+
+    /* background: pink;
+
+} */
+/* .table{
+    background-color: red;
+}
+.col{
+    color: aquamarine;
+        
+}
+.container.tablr.col{
+    background-color: #34f304;
+    color: pink;
+} */
